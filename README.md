@@ -7,7 +7,7 @@
 O projeto "Crie seu evento" foi desenvolvido durante o stage 03 no Explorer da Rocketseat, sendo trabalhado, especificamente, os conceitos de formulário. <br/>
 
 <p align="center">
-  <img alt="projeto treine.me" src="./images/preview.jpg" width="100%">
+  <img alt="projeto treine.me" src="./images/preview.jpg" width="70%">
 </p>
 
 ## 🚀 Tecnologias
